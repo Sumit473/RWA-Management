@@ -1,4 +1,4 @@
-# rwa_app
+# RWA
 
 A new Flutter application.
 
