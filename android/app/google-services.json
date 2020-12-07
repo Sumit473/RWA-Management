@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "944163089073",
+    "firebase_url": "https://rwamanagement-67b8e.firebaseio.com",
+    "project_id": "rwamanagement-67b8e",
+    "storage_bucket": "rwamanagement-67b8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944163089073:android:0fa3b3204003ccd3ff1090",
+        "android_client_info": {
+          "package_name": "com.thapar.rwa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944163089073-bpk1b0vua3irlo3bk78ejktl52cvfq79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thapar.rwa_app",
+            "certificate_hash": "08df034eb745b811d8b4cc55971b5e40b2200779"
+          }
+        },
+        {
+          "client_id": "944163089073-k1rl2les03dnh0eqlohs14l1qtabl55j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDelmde_d5WDcPdM_Z0oRW4VwCs2ZCb2X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944163089073-k1rl2les03dnh0eqlohs14l1qtabl55j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
